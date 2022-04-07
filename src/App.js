@@ -1,16 +1,13 @@
 import "./App.css";
-import { react, useState } from "react";
-import Main from "./components/Main/Main";
+import { useState } from "react";
+
 import Navbar from "./components/Navbar/Navbar";
 import { useForm } from "react-hook-form";
 import { MdUpload } from "react-icons/md";
 import styles from "./app.module.css";
-import axios from "axios";
-import SkillBar from "react-skillbars";
 import r1 from "./testing/r1.json";
 import r2 from "./testing/r2.json";
 function App() {
-  const cloudName = "dxcn5lhmr";
   const {
     register,
     handleSubmit,
@@ -47,6 +44,11 @@ function App() {
       </tr>
     );
   });
+
+
+  const downloadFile = () => {
+    window.location.href = "https://we-dio.netlify.app/src/testing/r1.json"
+  }
   // const uploadVideo = () => {
   //   console.log(selectedFile)
   //   const formData = new FormData();
@@ -139,6 +141,8 @@ function App() {
           <tbody className={styles.tableBody}>{DisplayData}</tbody>
         </table>
       </div>
+
+      <button onClick={downloadFile}>Download the JSON</button>
       {/* <Main dataSent={selectedFile}/> */}
     </div>
   );

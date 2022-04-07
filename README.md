@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# We-HAck by WIE in collaboration with Honeywell
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Submission by Chethan Reddy (https://www.linkedin.com/in/chethan-reddy-0201791ba/) and Subhanu S Roy (https://www.linkedin.com/in/subhanu-sankar-roy/)
 
-## Available Scripts
+## Team Name: AIOverflow 
 
-In the project directory, you can run:
+## Project Name: We-dio
 
-### `npm start`
+## Problem Statement
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+During video acquisition, due to sensor malfunction, poor network bandwidth, acquired videos suffers from blurry artifacts, different noise effects. A surveillance camera developer needs to test the product by manually verifying these videos void from any unwanted artifacts. 
+However, these videos are captured for long duration (Days of recordings) and manually reviewing recorded video for so long duration is too time-consuming and cost ineffective approach.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The objective of this problem is to find distorted frame timestamp (starting from the video first frame) and distortion type, provide suitable metric results. Further, participants are encouraged to analyze perceptual quality of the video and the most impacted patch region over the video duration.
 
-### `npm test`
+## Expected Output
+A software module to identify video perceptual defects and record time-stamp
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Our Solution
+We have used AI Mathematics to target each kind of disruption and which algo we have used in each is mentioned in this 
+pdf (https://drive.google.com/file/d/1_KVcr05HFt6i48bKp8idN11BIpEqIuxE/view?usp=sharing)
+When our script is run it gives the output exactly as expected with the timestamps and the type of disturbance with a score given to each.
+Not only this, we have also implemented our algorithmn into our website https://we-dio.netlify.app/ where user can enter a video and get the output in a tabular form.
+Currently, our website does not work for large files as videos are usually very heavy (over 100s of mbs) so only a cloud based middleware repository can solve that. We were not able to implement a cloud solution because of time constraint and a paywall behind most cloud based middlewares.
