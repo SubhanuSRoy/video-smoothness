@@ -1,0 +1,191 @@
+[
+        {
+            "no": "0",
+            "Start": "1.268282592",
+            "End": "1.444432952",
+            "Type": "BlankScreen",
+            "Score": "0.4027"
+        },
+        {
+            "no": "1",
+            "Start": "1.444432952",
+            "End": "1.726273528",
+            "Type": "BlankScreen",
+            "Score": "0.1045"
+        },
+        {
+            "no": "2",
+            "Start": "1.726273528",
+            "End": "2.149034392",
+            "Type": "BlankScreen",
+            "Score": "0.5"
+        },
+        {
+            "no": "3",
+            "Start": "2.149034392",
+            "End": "2.430874968",
+            "Type": "BlankScreen",
+            "Score": "0.248"
+        },
+        {
+            "no": "4",
+            "Start": "2.430874968",
+            "End": "3.17070648",
+            "Type": "BlankScreen",
+            "Score": "0.4138"
+        },
+        {
+            "no": "5",
+            "Start": "3.17070648",
+            "End": "3.663927488",
+            "Type": "BlankScreen",
+            "Score": "0.1625"
+        },
+        {
+            "no": "6",
+            "Start": "3.663927488",
+            "End": "4.333298856",
+            "Type": "BlankScreen",
+            "Score": "0.5"
+        },
+        {
+            "no": "7",
+            "Start": "1.124392293",
+            "End": "1.927529645",
+            "Type": "BlurScreen",
+            "Score": "254.5167"
+        },
+        {
+            "no": "8",
+            "Start": "1.927529645",
+            "End": "2.730666997",
+            "Type": "BlurScreen",
+            "Score": "68.559"
+        },
+        {
+            "no": "9",
+            "Start": "2.730666997",
+            "End": "4.216471099",
+            "Type": "BlurScreen",
+            "Score": "137.0215"
+        },
+        {
+            "no": "10",
+            "Start": "4.216471099",
+            "End": "5.581804597",
+            "Type": "BlurScreen",
+            "Score": "54.527"
+        },
+        {
+            "no": "11",
+            "Start": "5.581804597",
+            "End": "6.023530141",
+            "Type": "BlurScreen",
+            "Score": "10.2696"
+        },
+        {
+            "no": "12",
+            "Start": "0.014",
+            "End": "0.111",
+            "Type": "Lagging",
+            "Score": "0"
+        },
+        {
+            "no": "13",
+            "Start": "0.111",
+            "End": "0.222",
+            "Type": "Lagging",
+            "Score": "9999999937"
+        },
+        {
+            "no": "14",
+            "Start": "0.222",
+            "End": "0.236",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "15",
+            "Start": "0.236",
+            "End": "0.375",
+            "Type": "Lagging",
+            "Score": "9999999936"
+        },
+        {
+            "no": "16",
+            "Start": "0.375",
+            "End": "0.389",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "17",
+            "Start": "0.389",
+            "End": "0.514",
+            "Type": "Lagging",
+            "Score": "9999999936"
+        },
+        {
+            "no": "18",
+            "Start": "0.514",
+            "End": "0.528",
+            "Type": "Lagging",
+            "Score": "0"
+        },
+        {
+            "no": "19",
+            "Start": "0.528",
+            "End": "0.57",
+            "Type": "Lagging",
+            "Score": "9999999935"
+        },
+        {
+            "no": "20",
+            "Start": "0.57",
+            "End": "0.862",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "21",
+            "Start": "0.862",
+            "End": "0.987",
+            "Type": "Lagging",
+            "Score": "31"
+        },
+        {
+            "no": "22",
+            "Start": "0.987",
+            "End": "1.001",
+            "Type": "Lagging",
+            "Score": "9999999890"
+        },
+        {
+            "no": "23",
+            "Start": "1.001",
+            "End": "1.042",
+            "Type": "Lagging",
+            "Score": "9999999937"
+        },
+        {
+            "no": "24",
+            "Start": "1.042",
+            "End": "1.209",
+            "Type": "Lagging",
+            "Score": "34"
+        },
+        {
+            "no": "25",
+            "Start": "1.209",
+            "End": "1.223",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "26",
+            "Start": "1.223",
+            "End": "1.404",
+            "Type": "Lagging",
+            "Score": "13"
+        }
+    ]

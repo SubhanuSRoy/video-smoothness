@@ -1,0 +1,702 @@
+[
+        {
+            "no": "0",
+            "Start": "0.045",
+            "End": "0.045",
+            "Type": "Lagging",
+            "Score": "10"
+        },
+        {
+            "no": "1",
+            "Start": "0.045",
+            "End": "0.156",
+            "Type": "Lagging",
+            "Score": "329"
+        },
+        {
+            "no": "2",
+            "Start": "0.156",
+            "End": "0.156",
+            "Type": "Lagging",
+            "Score": "329"
+        },
+        {
+            "no": "3",
+            "Start": "0.156",
+            "End": "0.267",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "4",
+            "Start": "0.267",
+            "End": "0.334",
+            "Type": "Lagging",
+            "Score": "70"
+        },
+        {
+            "no": "5",
+            "Start": "0.334",
+            "End": "0.379",
+            "Type": "Lagging",
+            "Score": "2"
+        },
+        {
+            "no": "6",
+            "Start": "0.379",
+            "End": "0.379",
+            "Type": "Lagging",
+            "Score": "2"
+        },
+        {
+            "no": "7",
+            "Start": "0.379",
+            "End": "0.624",
+            "Type": "Lagging",
+            "Score": "17"
+        },
+        {
+            "no": "8",
+            "Start": "0.624",
+            "End": "0.624",
+            "Type": "Lagging",
+            "Score": "17"
+        },
+        {
+            "no": "9",
+            "Start": "0.624",
+            "End": "0.624",
+            "Type": "Lagging",
+            "Score": "17"
+        },
+        {
+            "no": "10",
+            "Start": "0.624",
+            "End": "0.735",
+            "Type": "Lagging",
+            "Score": "7"
+        },
+        {
+            "no": "11",
+            "Start": "0.735",
+            "End": "0.914",
+            "Type": "Lagging",
+            "Score": "22"
+        },
+        {
+            "no": "12",
+            "Start": "0.914",
+            "End": "0.981",
+            "Type": "Lagging",
+            "Score": "3"
+        },
+        {
+            "no": "13",
+            "Start": "0.981",
+            "End": "1.36",
+            "Type": "Lagging",
+            "Score": "45"
+        },
+        {
+            "no": "14",
+            "Start": "1.36",
+            "End": "1.382",
+            "Type": "Lagging",
+            "Score": "27"
+        },
+        {
+            "no": "15",
+            "Start": "1.382",
+            "End": "1.426",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "16",
+            "Start": "1.426",
+            "End": "1.627",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "17",
+            "Start": "1.627",
+            "End": "1.738",
+            "Type": "Lagging",
+            "Score": "147"
+        },
+        {
+            "no": "18",
+            "Start": "1.738",
+            "End": "2.14",
+            "Type": "Lagging",
+            "Score": "3"
+        },
+        {
+            "no": "19",
+            "Start": "2.14",
+            "End": "2.296",
+            "Type": "Lagging",
+            "Score": "39"
+        },
+        {
+            "no": "20",
+            "Start": "2.296",
+            "End": "2.407",
+            "Type": "Lagging",
+            "Score": "195"
+        },
+        {
+            "no": "21",
+            "Start": "2.407",
+            "End": "2.831",
+            "Type": "Lagging",
+            "Score": "23"
+        },
+        {
+            "no": "22",
+            "Start": "2.831",
+            "End": "2.875",
+            "Type": "Lagging",
+            "Score": "18"
+        },
+        {
+            "no": "23",
+            "Start": "2.875",
+            "End": "2.897",
+            "Type": "Lagging",
+            "Score": "25"
+        },
+        {
+            "no": "24",
+            "Start": "2.897",
+            "End": "2.942",
+            "Type": "Lagging",
+            "Score": "45"
+        },
+        {
+            "no": "25",
+            "Start": "2.942",
+            "End": "2.987",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "26",
+            "Start": "2.987",
+            "End": "3.098",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "27",
+            "Start": "3.098",
+            "End": "3.365",
+            "Type": "Lagging",
+            "Score": "38"
+        },
+        {
+            "no": "28",
+            "Start": "3.365",
+            "End": "3.544",
+            "Type": "Lagging",
+            "Score": "42"
+        },
+        {
+            "no": "29",
+            "Start": "3.544",
+            "End": "3.588",
+            "Type": "Lagging",
+            "Score": "208"
+        },
+        {
+            "no": "30",
+            "Start": "3.588",
+            "End": "3.611",
+            "Type": "Lagging",
+            "Score": "14"
+        },
+        {
+            "no": "31",
+            "Start": "3.611",
+            "End": "3.611",
+            "Type": "Lagging",
+            "Score": "14"
+        },
+        {
+            "no": "32",
+            "Start": "3.611",
+            "End": "3.633",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "33",
+            "Start": "3.633",
+            "End": "3.633",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "34",
+            "Start": "3.633",
+            "End": "3.633",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "35",
+            "Start": "3.633",
+            "End": "3.655",
+            "Type": "Lagging",
+            "Score": "20"
+        },
+        {
+            "no": "36",
+            "Start": "3.655",
+            "End": "3.767",
+            "Type": "Lagging",
+            "Score": "105"
+        },
+        {
+            "no": "37",
+            "Start": "3.767",
+            "End": "3.789",
+            "Type": "Lagging",
+            "Score": "81"
+        },
+        {
+            "no": "38",
+            "Start": "3.789",
+            "End": "3.989",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "39",
+            "Start": "3.989",
+            "End": "4.056",
+            "Type": "Lagging",
+            "Score": "26"
+        },
+        {
+            "no": "40",
+            "Start": "4.056",
+            "End": "4.079",
+            "Type": "Lagging",
+            "Score": "0"
+        },
+        {
+            "no": "41",
+            "Start": "4.079",
+            "End": "4.19",
+            "Type": "Lagging",
+            "Score": "106"
+        },
+        {
+            "no": "42",
+            "Start": "4.19",
+            "End": "4.19",
+            "Type": "Lagging",
+            "Score": "106"
+        },
+        {
+            "no": "43",
+            "Start": "4.19",
+            "End": "4.19",
+            "Type": "Lagging",
+            "Score": "106"
+        },
+        {
+            "no": "44",
+            "Start": "4.19",
+            "End": "4.19",
+            "Type": "Lagging",
+            "Score": "106"
+        },
+        {
+            "no": "45",
+            "Start": "4.19",
+            "End": "4.212",
+            "Type": "Lagging",
+            "Score": "3"
+        },
+        {
+            "no": "46",
+            "Start": "4.212",
+            "End": "4.257",
+            "Type": "Lagging",
+            "Score": "36"
+        },
+        {
+            "no": "47",
+            "Start": "4.257",
+            "End": "4.324",
+            "Type": "Lagging",
+            "Score": "21"
+        },
+        {
+            "no": "48",
+            "Start": "4.324",
+            "End": "4.435",
+            "Type": "Lagging",
+            "Score": "105"
+        },
+        {
+            "no": "49",
+            "Start": "4.435",
+            "End": "4.435",
+            "Type": "Lagging",
+            "Score": "105"
+        },
+        {
+            "no": "50",
+            "Start": "4.435",
+            "End": "4.435",
+            "Type": "Lagging",
+            "Score": "105"
+        },
+        {
+            "no": "51",
+            "Start": "4.435",
+            "End": "4.458",
+            "Type": "Lagging",
+            "Score": "83"
+        },
+        {
+            "no": "52",
+            "Start": "4.458",
+            "End": "4.747",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "53",
+            "Start": "4.747",
+            "End": "4.747",
+            "Type": "Lagging",
+            "Score": "33"
+        },
+        {
+            "no": "54",
+            "Start": "4.747",
+            "End": "4.77",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "55",
+            "Start": "4.77",
+            "End": "4.77",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "56",
+            "Start": "4.77",
+            "End": "5.015",
+            "Type": "Lagging",
+            "Score": "8"
+        },
+        {
+            "no": "57",
+            "Start": "5.015",
+            "End": "5.148",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "58",
+            "Start": "5.148",
+            "End": "5.349",
+            "Type": "Lagging",
+            "Score": "4"
+        },
+        {
+            "no": "59",
+            "Start": "5.349",
+            "End": "5.349",
+            "Type": "Lagging",
+            "Score": "4"
+        },
+        {
+            "no": "60",
+            "Start": "5.349",
+            "End": "5.349",
+            "Type": "Lagging",
+            "Score": "4"
+        },
+        {
+            "no": "61",
+            "Start": "5.349",
+            "End": "5.594",
+            "Type": "Lagging",
+            "Score": "26"
+        },
+        {
+            "no": "62",
+            "Start": "5.594",
+            "End": "5.616",
+            "Type": "Lagging",
+            "Score": "9"
+        },
+        {
+            "no": "63",
+            "Start": "5.616",
+            "End": "5.772",
+            "Type": "Lagging",
+            "Score": "13"
+        },
+        {
+            "no": "64",
+            "Start": "5.772",
+            "End": "5.862",
+            "Type": "Lagging",
+            "Score": "11"
+        },
+        {
+            "no": "65",
+            "Start": "5.862",
+            "End": "5.928",
+            "Type": "Lagging",
+            "Score": "32"
+        },
+        {
+            "no": "66",
+            "Start": "5.928",
+            "End": "5.951",
+            "Type": "Lagging",
+            "Score": "16"
+        },
+        {
+            "no": "67",
+            "Start": "5.951",
+            "End": "5.973",
+            "Type": "Lagging",
+            "Score": "17"
+        },
+        {
+            "no": "68",
+            "Start": "5.973",
+            "End": "5.995",
+            "Type": "Lagging",
+            "Score": "0"
+        },
+        {
+            "no": "69",
+            "Start": "5.995",
+            "End": "6.04",
+            "Type": "Lagging",
+            "Score": "40"
+        },
+        {
+            "no": "70",
+            "Start": "6.04",
+            "End": "6.084",
+            "Type": "Lagging",
+            "Score": "5"
+        },
+        {
+            "no": "71",
+            "Start": "6.084",
+            "End": "6.285",
+            "Type": "Lagging",
+            "Score": "47"
+        },
+        {
+            "no": "72",
+            "Start": "6.285",
+            "End": "6.307",
+            "Type": "Lagging",
+            "Score": "27"
+        },
+        {
+            "no": "73",
+            "Start": "6.307",
+            "End": "6.307",
+            "Type": "Lagging",
+            "Score": "27"
+        },
+        {
+            "no": "74",
+            "Start": "6.307",
+            "End": "6.33",
+            "Type": "Lagging",
+            "Score": "5"
+        },
+        {
+            "no": "75",
+            "Start": "6.33",
+            "End": "6.619",
+            "Type": "Lagging",
+            "Score": "19"
+        },
+        {
+            "no": "76",
+            "Start": "6.619",
+            "End": "6.619",
+            "Type": "Lagging",
+            "Score": "19"
+        },
+        {
+            "no": "77",
+            "Start": "6.619",
+            "End": "7.065",
+            "Type": "Lagging",
+            "Score": "8"
+        },
+        {
+            "no": "78",
+            "Start": "7.065",
+            "End": "7.199",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "79",
+            "Start": "7.199",
+            "End": "7.199",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "80",
+            "Start": "7.199",
+            "End": "7.399",
+            "Type": "Lagging",
+            "Score": "6"
+        },
+        {
+            "no": "81",
+            "Start": "7.399",
+            "End": "7.399",
+            "Type": "Lagging",
+            "Score": "6"
+        },
+        {
+            "no": "82",
+            "Start": "7.399",
+            "End": "7.689",
+            "Type": "Lagging",
+            "Score": "60"
+        },
+        {
+            "no": "83",
+            "Start": "7.689",
+            "End": "7.689",
+            "Type": "Lagging",
+            "Score": "60"
+        },
+        {
+            "no": "84",
+            "Start": "7.689",
+            "End": "7.711",
+            "Type": "Lagging",
+            "Score": "1"
+        },
+        {
+            "no": "85",
+            "Start": "7.711",
+            "End": "7.756",
+            "Type": "Lagging",
+            "Score": "9"
+        },
+        {
+            "no": "86",
+            "Start": "7.756",
+            "End": "7.845",
+            "Type": "Lagging",
+            "Score": "72"
+        },
+        {
+            "no": "87",
+            "Start": "7.845",
+            "End": "7.845",
+            "Type": "Lagging",
+            "Score": "72"
+        },
+        {
+            "no": "88",
+            "Start": "7.845",
+            "End": "7.845",
+            "Type": "Lagging",
+            "Score": "72"
+        },
+        {
+            "no": "89",
+            "Start": "7.845",
+            "End": "7.845",
+            "Type": "Lagging",
+            "Score": "72"
+        },
+        {
+            "no": "90",
+            "Start": "7.845",
+            "End": "7.845",
+            "Type": "Lagging",
+            "Score": "72"
+        },
+        {
+            "no": "91",
+            "Start": "7.845",
+            "End": "7.867",
+            "Type": "Lagging",
+            "Score": "32"
+        },
+        {
+            "no": "92",
+            "Start": "7.867",
+            "End": "7.89",
+            "Type": "Lagging",
+            "Score": "28"
+        },
+        {
+            "no": "93",
+            "Start": "7.89",
+            "End": "7.912",
+            "Type": "Lagging",
+            "Score": "82"
+        },
+        {
+            "no": "94",
+            "Start": "7.912",
+            "End": "7.912",
+            "Type": "Lagging",
+            "Score": "82"
+        },
+        {
+            "no": "95",
+            "Start": "7.912",
+            "End": "7.912",
+            "Type": "Lagging",
+            "Score": "82"
+        },
+        {
+            "no": "96",
+            "Start": "7.912",
+            "End": "7.912",
+            "Type": "Lagging",
+            "Score": "82"
+        },
+        {
+            "no": "97",
+            "Start": "7.912",
+            "End": "7.934",
+            "Type": "Lagging",
+            "Score": "58"
+        },
+        {
+            "no": "98",
+            "Start": "7.934",
+            "End": "8.068",
+            "Type": "Lagging",
+            "Score": "32"
+        },
+        {
+            "no": "99",
+            "Start": "8.068",
+            "End": "8.157",
+            "Type": "Lagging",
+            "Score": "17"
+        }
+    ]
